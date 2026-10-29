@@ -131,8 +131,4 @@ It shows how data analytics can help businesses understand customer behavior, id
 Data Science & Analytics Intern  
 Future Interns
 
-## 📌 Internship Task
-
-This project was completed as part of **Task 2 – Customer Retention & Churn Analysis** in the Future Interns Data Science & Analytics Internship Program.
-
 ---
