@@ -30,7 +30,8 @@ The interactive dashboard provides an overview of customer churn through key per
 - Comparison of monthly charges between churned and retained customers
 - Interactive filters for exploring the dataset
 
-*Add a screenshot of your dashboard here after uploading it to the repository.*
+![Customer Retention and Churn Analysis Dashboard](Dashboard_Screenshot1.jpg)
+![Customer Retention and Churn Analysis Dashboard](Dashboard_Screenshot2.jpg)
 
 ## 📁 Repository Structure
 
